@@ -115,7 +115,7 @@ ui <- dashboardPage(
 <li>Construct and visualize efficient frontiers using mean-variance optimization.</li>
 <li>Compare live option chain data with Black–Scholes theoretical prices and implied volatility plots.</li>
 </ul>
-<p style="color:#f5d76e;">Developed and designed by <strong style="color:#FFD700;"> MTH207 Course Group Project</strong></p>
+<p style="color:#f5d76e;">Developed and designed by <strong style="color:#FFD700;"> MTH208 Course Group Project</strong></p>
 <p style="color:#f5d76e;">Powered by R, Shiny, Quantmod, and yfR.</p>')
                 )
               )
